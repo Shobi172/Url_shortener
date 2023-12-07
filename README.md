@@ -24,13 +24,13 @@ A simple URL shortener application that allows users to shorten long URLs and ma
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Shobi172/url-shortener.git
+   git clone https://github.com/Shobi172/Url_shortener.git
    ```
 
 2. Install dependencies for the frontend and backend:
 
    ```bash
-   cd url-shortener/frontend
+   cd Url_shortener/frontend
    npm install
 
    cd ../backend
